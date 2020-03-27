@@ -36,7 +36,7 @@
                             <h3 class="footer-title text-uppercase text-wh mb-lg-4 mb-3">Information</h3>
                             <ul class="list-unstyled w3layouts-icons">
                                 <li>
-                                    <a href="">Documentation</a>
+                                    <a href="dokumentacija.docx">Documentation</a>
                                 </li>
                                 <li class="mt-3">
                                     <a href="https://www.linkedin.com/in/dusan-stankovic-9bab68185/">Author</a>
